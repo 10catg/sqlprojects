@@ -1,4 +1,4 @@
-
+-- Count how many are paid off vs not paid off 
 SELECT 
     education, 
     AVG(principal) AS Avg_Principal,
